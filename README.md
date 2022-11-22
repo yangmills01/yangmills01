@@ -2,7 +2,7 @@
 - 👀 I’m interested in play game and listen music
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 3194762511@qq.com
 
 <!---
 yangmills01/yangmills01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
